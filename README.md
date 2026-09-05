@@ -62,3 +62,6 @@ cf events hello-js
 1. https://cli.cloudfoundry.org/en-US/v6/
 1. https://www.systemdesignhandbook.com/guides/cloud-foundry-vs-kubernetes/
 1. https://softwarehut.com/blog/tech/cloud-foundry-vs-kubernetes
+1. https://docs.spring.io/spring-boot/reference/actuator/cloud-foundry.html
+1. https://docs.spring.io/spring-cloud-cloudfoundry/docs/current/reference/html/
+1. https://docs.cloudfoundry.org/buildpacks/java/getting-started-deploying-apps/gsg-spring.html
